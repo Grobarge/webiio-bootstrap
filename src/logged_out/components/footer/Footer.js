@@ -78,11 +78,11 @@ const styles = theme => ({
 const infos = [
   {
     icon: <PhoneIcon />,
-    description: "+1 555 123456"
+    description: "(385) 685-3550"
   },
   {
     icon: <MailIcon />,
-    description: "support@company.com"
+    description: "support@webiio.com"
   }
 ];
 
@@ -219,8 +219,10 @@ function Footer(props) {
               About the Company
             </Typography>
             <Typography style={{ color: "#8f9296" }} paragraph>
-              Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce
-              euismod convallis velit, eu auctor lacus vehicula sit amet.
+              Located in lehi UT, we are excited to be serving the local
+              businesses of the rapidly growing Silicon Slopes. We are here to
+              help you get one of the most important parts of running a business
+              - creating & running your website!
             </Typography>
             <Box display="flex">
               {socialIcons.map((socialIcon, index) => (

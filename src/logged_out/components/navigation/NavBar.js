@@ -56,8 +56,8 @@ function NavBar(props) {
       icon: <HomeIcon className="text-white" />
     },
     {
-      link: "/blog",
-      name: "Blog",
+      link: "/our-work",
+      name: "Our Work",
       icon: <BookIcon className="text-white" />
     },
     {
@@ -82,7 +82,7 @@ function NavBar(props) {
               display="inline"
               color="primary"
             >
-              Wa
+              Web
             </Typography>
             <Typography
               variant="h4"
@@ -90,7 +90,7 @@ function NavBar(props) {
               display="inline"
               color="secondary"
             >
-              Ver
+              iio
             </Typography>
           </div>
           <div>
